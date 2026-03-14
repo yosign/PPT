@@ -1,0 +1,110 @@
+[
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">OpenClaw · 两个月真实体验</div></div>\n<div class=\"sb\" style=\"justify-content:flex-end;padding-bottom:24px;gap:24px;\">\n<div class=\"cvt\">如果OpenClaw是<br>AI时代的iPhone 1</div>\n<div class=\"cvs\">两个月真实体验<br>改变了什么，改变不了什么<br>以及这个阶段藏着什么机会</div></div>",
+    "s": "今天想跟大家聊一个工具，但我不想从\"它有什么功能\"开始讲。我想从一个问题开始：你现在用AI的方式，和两年前有什么本质区别？\n\n停一下，认真想一想。\n\n大部分人的答案是：模型更聪明了，回答更准了，但用的方式——打开App，输入问题，等回答，复制粘贴——其实没什么变化。\n\n这件事本身值得深思。AI进化了两年，但我们和AI的交互方式，还停留在2022年。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">一个问题</div><div class=\"st\">两年过去了</div></div>\n<div class=\"sb\" style=\"gap:28px;\">\n<div class=\"bq c\">你现在用AI的方式，<br>和两年前有什么本质区别？</div>\n<hr class=\"dv\"><div class=\"sm\">模型更聪明了，但用法没变：<br>打开App → 输入问题 → 等回答 → 复制粘贴</div>\n<div class=\"sm dk\">AI进化了两年，交互方式还停留在2022年。</div></div>",
+    "s": "2007年，乔布斯发布iPhone的时候，有一句话很多人记住了：\"今天，我们重新发明了手机。\"\n\n但他没说的是：他其实重新发明了人和计算机的关系。\n\n在iPhone之前，手机就是打电话发短信的设备。iPhone之后，手机变成了可编程的个人计算终端。\n\niPhone 1出来时，没有App Store，甚至不能复制粘贴。很多人觉得不过是一部好看的手机。但它定义了一件事：方向。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">定义</div><div class=\"st\">OpenClaw在做什么</div></div>\n<div class=\"sb\" style=\"gap:22px;\">\n<div><div class=\"sm dk\" style=\"margin-bottom:10px;\">把AI接进你日常用的通讯入口</div>\n<div class=\"fl\"><span class=\"fs\">Telegram</span><span class=\"fa\">·</span><span class=\"fs\">WhatsApp</span><span class=\"fa\">·</span><span class=\"fs\">iMessage</span><span class=\"fa\">·</span><span class=\"fs\">Slack</span></div></div>\n<div class=\"sm\">接上邮箱、日历、浏览器、文件系统、各种技能</div>\n<hr class=\"dv\"><div class=\"bq\">这不是一个单点工具，<br>是一个新入口</div></div>",
+    "s": "今天要聊的OpenClaw，我觉得它在做同样的事情。它在重新定义人和AI的关系。\n\n不是\"我去找AI\"，而是\"AI在我的生活流里\"。不是打开App问它，而是在你每天用的通讯软件里发一条消息，它去把事情做完。\n\n这不是一个单点工具，是一个新入口。\n\n我用了两个月，今天把真实体验告诉大家。有惊喜，有坑，也有一些用着用着想通的事。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">演进</div><div class=\"st\">AI工具三代</div></div>\n<div class=\"sb\"><div class=\"trc\">\n<div class=\"gc\"><div class=\"gn\">第一代</div><div class=\"gt\">聊天窗口</div><div class=\"gi\">百科全书式<br>一问一答<br>复制粘贴<br>摩擦大</div></div>\n<div class=\"gc\"><div class=\"gn\">第二代</div><div class=\"gt\">IDE / CLI</div><div class=\"gi\">AI开始干活<br>MCP · RAG<br>锁在电脑里<br>门槛高</div></div>\n<div class=\"gc on\"><div class=\"gn\">第三代</div><div class=\"gt\">OpenClaw</div><div class=\"gi\">沟通·记忆·工具<br>消息即指令<br>那道门消失了</div></div>\n</div></div>",
+    "s": "要理解OpenClaw是什么，得先说说AI工具这两年走了一条什么路。我把它分成三代。\n\n第一代，聊天窗口。ChatGPT 3.5出来就开始强迫自己用，Claude还没名气的时候也在用，亚马逊云来公司推销，也很早接触了Bedrock。那时候的用法就是当百科全书。一问一答，围绕一个聊天窗口，解决具体疑惑。\n\n第二代，IDE和CLI。AI开始有了使用工具的能力。MCP、RAG——给大模型增加外设，像USB设备一样。能写代码，开始干活了。\n\n第三代，OpenClaw。真正的跨越——沟通能力、记忆系统、工具调用，全部接上了。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">第一代</div><div class=\"st\">那道门</div></div>\n<div class=\"sb\" style=\"gap:24px;\">\n<div class=\"fl\" style=\"flex-wrap:wrap;gap:8px;\">\n<span class=\"fs\">我</span><span class=\"fa\">→</span><span class=\"fs\">打开App</span><span class=\"fa\">→</span><span class=\"fs\">切换状态</span><span class=\"fa\">→</span><span class=\"fs\">描述背景</span><span class=\"fa\">→</span><span class=\"fs\">等回答</span><span class=\"fa\">→</span><span class=\"fs\">复制</span><span class=\"fa\">→</span><span class=\"fs\">回到工作</span></div>\n<hr class=\"dv\"><div class=\"bq\">AI在那边，我在这边</div>\n<div class=\"sm\">每次用AI都要切换状态，进入AI模式，用完再切回来。</div></div>",
+    "s": "这里面有一个根本性的摩擦：AI在那边，我在这边，中间隔着一道门。\n\n我每次用AI都要切换状态，进入\"AI模式\"，用完再切回来。\n\n这道门是第一代的核心问题。不是模型不够聪明，是交互方式本身有摩擦。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">第二代</div><div class=\"st\">AI开始干活，但还在电脑里</div></div>\n<div class=\"sb\" style=\"gap:22px;\">\n<ul class=\"bl\"><li>MCP、RAG——给大模型增加外设</li><li>能写代码，能控制电脑</li><li>锁在特定开发工具里，大部分人感受不到</li></ul>\n<hr class=\"dv\"><div class=\"sm\">解决了「AI能不能做事」的问题，<br>但没解决「普通人能不能用上」的问题。</div></div>",
+    "s": "第二代，AI开始干活了。\n\n但问题是，它还锁在电脑里，锁在特定的开发工具里。用的门槛很高，大部分人感受不到。\n\n这一代解决了\"AI能不能做事\"的问题，但没解决\"普通人能不能用上\"的问题。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">第三代</div><div class=\"st\">那道门消失了</div></div>\n<div class=\"sb\" style=\"gap:22px;\">\n<div class=\"fl\"><span class=\"fs dk\">发消息</span><span class=\"fa\">→</span><span class=\"fs\">AI做完</span><span class=\"fa\">→</span><span class=\"fs\">汇报结果</span></div>\n<div class=\"bq\">真正做到你说一句话，<br>它把事情做完</div>\n<hr class=\"dv\"><div class=\"sm\">不需要打开电脑，不需要切换App，不需要复制粘贴。</div>\n<div class=\"sm dk\" style=\"font-style:italic;\">第一次体验时，感受不是\"真厉害\"，而是\"原来AI应该是这个样子的\"。</div></div>",
+    "s": "第三代，那道门消失了。\n\n真正做到你说一句话，它把事情做完。不需要打开电脑，不需要打开App，不需要重新描述背景，不需要复制粘贴。\n\n我第一次体验到这件事的时候，感受不是\"这真厉害\"，而是\"原来AI应该是这个样子的\"。\n\n就像第一次用智能手机的人，不会觉得\"这手机真厉害\"，而是觉得\"手机应该是这个样子的\"。\n\n这个感受——方向感，找到版本答案的感觉——我后来跟很多用过OpenClaw的人聊，大家都有。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">运营重构</div><div class=\"st\">我的两个账号</div></div>\n<div class=\"sb\" style=\"gap:28px;\">\n<div class=\"tc\">\n<div class=\"cb\"><div class=\"cl\">账号 A</div><div class=\"ct\">AI资讯 · 独立开发</div><div class=\"ci\">图文内容</div></div>\n<div class=\"cb\"><div class=\"cl\">账号 B</div><div class=\"ct\">疗愈音频 · 冥想</div><div class=\"ci\">脑波音乐 · 视频内容</div></div></div>\n<hr class=\"dv\"><div class=\"bq\">它不只是省时间，<br>它改变了做内容的底层逻辑</div></div>",
+    "s": "我自己在运营两个内容账号。一个做AI资讯和独立开发方向的图文，一个做疗愈音频，冥想和脑波音乐。\n\n两个方向，内容类型完全不同。\n\n但用了OpenClaw之后，我发现一件事：它不只是帮我省了时间，它改变了我做内容这件事的底层逻辑。\n\n我从两个账号的经历分别说。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">图文创作</div><div class=\"st\">工作流重构</div></div>\n<div class=\"sb\"><div class=\"tc\">\n<div class=\"cb\"><div class=\"cl\">以前</div>\n<div class=\"ci\" style=\"margin-bottom:8px;\">有想法 → 选题 → 查资料 → 写大纲 → 成文</div>\n<ul class=\"bl\" style=\"gap:6px;\"><li style=\"font-size:12px;color:#aaa;\">每步需要整块时间</li><li style=\"font-size:12px;color:#aaa;\">碎片时间用不上</li><li style=\"font-size:12px;color:#aaa;\">想法积压，频率不稳</li></ul></div>\n<div class=\"cb\"><div class=\"cl dk\">现在</div>\n<div class=\"ci\" style=\"font-size:12px;color:#1a1a1a;margin-bottom:8px;\">AI推荐资讯 → 我选 → 读章节 → 写笔记 → AI出大纲 → 我修改 → 逐段成文</div>\n<ul class=\"bl\" style=\"gap:6px;\"><li style=\"font-size:12px;\">每步可碎片化完成</li><li style=\"font-size:12px;\">AI等我随时继续</li></ul></div>\n</div></div>",
+    "s": "先说图文。以前写一篇AI资讯，大概四步：看文章有想法→选题→查资料写大纲→成文。\n\n听起来不复杂。但这四步有一个共同要求：你得坐下来，进入状态，有整块时间。阅读需要专注，查资料需要专注，写大纲需要专注。碎片时间在这个流程里完全用不上。\n\n最后的结果：想法积压着，更新频率很难稳定。不是不想写，是没有合适的时间窗口启动。\n\n现在：小龙虾自己看资讯推荐给我→我选→它按章节呈现→我写笔记→它出大纲→我修改→逐段成文。每步都可以碎片化完成。AI在那等着，随时接着上次继续。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">核心洞察</div><div class=\"st lg\">写作的本质</div></div>\n<div class=\"sb\" style=\"gap:24px;\">\n<div class=\"bq c\">写作表面上是输出，<br>本质上是逼着自己输入</div>\n<hr class=\"dv\"><div class=\"sm\">以前更新不稳定，以为是执行力问题。其实是输入不足——没有整块时间阅读和思考。</div>\n<div class=\"sm dk\">OpenClaw把输入变成主动推送、可碎片化的任务。它没有帮我写，它帮我解决了写之前的问题。</div></div>",
+    "s": "这个过程让我想通了这次分享里最值得带走的一个观点：写作表面上是输出，本质上是逼着自己输入。\n\n以前更新不稳定，我以为是执行力问题，是懒。后来才明白，根本原因是输入不足。没有足够的阅读和思考，就没有值得写的东西。而阅读和思考，需要整块时间。\n\nOpenClaw把输入这件事变成了主动推送、可以碎片化处理的任务。它没有帮我写，它帮我解决了写之前的问题。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">疗愈音频</div><div class=\"st\">从主观到客观</div></div>\n<div class=\"sb\" style=\"gap:22px;\">\n<div class=\"tc\">\n<div class=\"cb\"><div class=\"cl\">以前</div><div class=\"ct\">凭感觉选</div><div class=\"ci\">颜色 · 视频 · 音频</div><div class=\"ci\" style=\"color:#e07040;\">我的喜好 ≠ 受众需求</div></div>\n<div class=\"cb\"><div class=\"cl dk\">现在</div><div class=\"ci\" style=\"font-size:12px;color:#1a1a1a;\">AI筛高播放量脑波音频<br>→ 裁剪30分钟<br>→ 配疗愈视频<br>→ 加文字说明<br>→ 我选方案</div></div></div>\n<hr class=\"dv\"><div class=\"sm dk\">AI的筛选逻辑完全客观——受众用行为投票出来的答案</div></div>",
+    "s": "再说疗愈音频。以前选内容靠感觉——选自己喜欢的颜色，喜欢的视频，喜欢的音频。\n\n这里有一个隐蔽的问题：我的喜好不等于受众的需求。我觉得这个视觉风格好看，不代表来听冥想的人需要这个。\n\n现在：我给OpenClaw提需求，它去找高播放量的脑波音频，筛选，裁剪成30分钟，配上疗愈视频，加文字说明，出几个方案，我来拍板。\n\nAI的筛选逻辑完全客观——最高播放、最高质量，是受众用行为投票出来的答案，不掺杂我的主观偏好。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">核心洞察</div><div class=\"st lg\">去掉主观判断</div></div>\n<div class=\"sb\" style=\"gap:24px;\">\n<div class=\"bq c\">在某些领域，去掉主观判断，<br>反而离正确答案更近</div>\n<hr class=\"dv\"><div class=\"sm\">人的判断有时是资产，有时是负债。</div>\n<div class=\"sm dk\">当个人偏好与受众需求有偏差，判断就是干扰项。</div></div>",
+    "s": "这个体验让我意识到：在某些领域，去掉主观判断，反而离正确答案更近。\n\n人的判断有时候是资产，有时候是负债。当你的个人偏好和受众需求有偏差，你的判断就是干扰项。\n\nAI的价值之一，就是帮你识别并去掉这些干扰项。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">进阶</div><div class=\"st\">数据回归与自我进化</div></div>\n<div class=\"sb\" style=\"gap:16px;\">\n<div class=\"ni\"><div class=\"nn\">01</div><div><div class=\"nt\">数据优化基于你的账号</div><div class=\"nd\">人设、内容、用户——你的每次选择和反馈都是变量。越来越了解你，而非服务所有人。</div></div></div>\n<div class=\"ni\"><div class=\"nn\">02</div><div><div class=\"nt\">知识库反哺内容，形成正循环</div><div class=\"nd\">做内容 → 沉淀知识 → 知识支撑内容 → 质量提升 → 更好内容</div></div></div>\n<div class=\"ni\"><div class=\"nn\">03</div><div><div class=\"nt\">进化是自主的，潜移默化的</div><div class=\"nd\">你只需要用它。用得越多，沉淀越接近正确。这是AI助手和AI工具的本质区别。</div></div></div>\n</div>",
+    "s": "好，上面是基础体验。下面讲一个更深的东西，我称它为数据回归与自我进化。\n\n第一：数据优化是基于你这个账号的。你的人设、内容风格、用户画像——都是它优化的变量。你每次的选择和反馈，都在告诉它你的标准。这不是一个通用工具，是一个越来越了解你的账号的助手。\n\n第二：知识库反哺内容，形成正循环。做内容的同时积累知识库。知识库反哺下一篇内容。做内容→沉淀知识→知识支撑内容→质量提升→更好内容。\n\n第三：进化是自主的，潜移默化的。你只需要用它。用得越多，沉淀越接近正确。这是AI助手和AI工具的本质区别——工具用久了你更熟练，助手用久了它更了解你。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">记忆系统</div><div class=\"st\">它不是自动的</div></div>\n<div class=\"sb\" style=\"gap:22px;\">\n<ul class=\"bl\"><li>你要亲手告诉它：哪些值得留</li><li>用什么格式</li><li>存在哪里</li><li>怎么调用</li></ul>\n<hr class=\"dv\"><div class=\"bq\">这个过程逼着你回答：<br>我自己是怎么记事情的？</div></div>",
+    "s": "OpenClaw有记忆系统。但它不是自动的。\n\n很多人第一次听到这里会有点失望——什么，还要我自己配置？但我现在觉得，这恰恰是它设计里最有意思的地方。\n\n你要亲手告诉它：哪些东西值得留下来，用什么格式，存在哪里，下次怎么调用。\n\n这个过程听起来像在配置工具。但做着做着，我发现自己在回答另一个问题：我自己是怎么记事情的？"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">认知</div><div class=\"st\">信息 vs 知识</div></div>\n<div class=\"sb\" style=\"gap:22px;\">\n<div class=\"tc\">\n<div class=\"cb\"><div class=\"cl\">信息</div><div class=\"ct\">发生了什么</div><div class=\"ci\">每天接收几百条<br>大部分只是经过<br>没有留下来</div></div>\n<div class=\"cb\"><div class=\"cl dk\">知识</div><div class=\"ct\">我从中得出了什么</div><div class=\"ci\" style=\"color:#1a1a1a;\">需要大脑处理<br>需要和经历连接<br>才能真正留下</div></div></div>\n<hr class=\"dv\"><div class=\"bq\">真正有价值的，<br>是大脑处理后产生的理解</div></div>",
+    "s": "整理记忆系统逼我做了一件平时不会做的事：给每一条内容定性。这是事实还是判断？这是信息还是结论？这对我意味着什么？\n\n做完之后，我想通了一件事：每天接触那么多信息，真正有价值的不是信息本身，而是大脑处理信息之后产生的理解。\n\n信息是\"发生了什么\"，知识是\"我从中得出了什么\"。\n\n我们每天刷几百条内容，以为自己在学习，但大部分时候只是在接收信息，没有产生理解，没有形成知识。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">洞察</div><div class=\"st lg\">为什么大道理都懂，<br>仍然过不好这一生？</div></div>\n<div class=\"sb\" style=\"gap:24px;\">\n<div class=\"sm\">\"懂\"停留在信息层面——大脑标记了\"已接收\"，但从未进入你的框架，未与经历、判断、优先级连接。</div>\n<div class=\"sm dk\">信息进来了，但没有被消化，没有变成知识。</div></div>",
+    "s": "这也解释了一个我相信在座很多人也有过的困惑：为什么大道理都懂，但仍然过不好这一生？\n\n你知道早睡早起对身体好。你知道要专注在重要的事上。但你还是做不到。\n\n因为\"懂\"停留在信息层面。大脑标记了\"已接收\"，但它从来没有真正进入你的框架，没有和你的经历、判断、优先级发生连接，变成你自己的知识。\n\n整理OpenClaw的记忆系统，让我第一次非常清晰地看见这件事：我的知识储备里，大量的信息，少量的知识。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">改变一件事</div><div class=\"st\">读书笔记</div></div>\n<div class=\"sb\" style=\"gap:22px;\">\n<div class=\"tc\">\n<div class=\"cb\"><div class=\"cl\">以前</div><div class=\"ct\">这篇文章说了什么</div><div class=\"ci\">信息的搬运</div></div>\n<div class=\"cb\"><div class=\"cl dk\">现在</div><div class=\"ct\">我从这篇文章里得出了什么</div><div class=\"ci\" style=\"color:#1a1a1a;\">知识的生产</div></div></div>\n<hr class=\"dv\"><div class=\"sm\">一字之差。存进记忆系统的东西，质量完全不一样了。</div>\n<div class=\"sm dk\">你的记忆系统里装的是信息还是知识，决定了它能给你反哺多少东西。</div></div>",
+    "s": "这个发现让我改变了一件具体的事。\n\n以前写读书笔记，我记的是\"这篇文章说了什么\"。现在我只记\"我从这篇文章里得出了什么\"。\n\n一字之差。但存进记忆系统的东西，质量完全不一样了。前者是信息的搬运，后者是知识的生产。\n\n你的记忆系统里装的是信息还是知识，决定了它能给你反哺多少东西。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">门槛</div><div class=\"st\">模型质量决定体验上限</div></div>\n<div class=\"sb\" style=\"gap:22px;\">\n<div class=\"tc\">\n<div class=\"cb\"><div class=\"cl\">国产模型</div><div class=\"ci\">体验落后约半年<br>≈ Claude Sonnet 3.7</div></div>\n<div class=\"cb\"><div class=\"cl dk\">Claude 最新版</div><div class=\"ci\" style=\"color:#1a1a1a;\">推理能力强<br>指令遵循准确<br>体验质量高</div></div></div>\n<hr class=\"dv\"><div class=\"bq\">模型弱一档，体验掉一个台阶</div>\n<div class=\"sm dk\">如果打算认真用，模型不要省。</div></div>",
+    "s": "讲完了用好OpenClaw能得到什么，我想直接说它的边界。\n\n先说模型。OpenClaw本身是框架，智能来自你接入的AI模型。模型质量对整个体验的影响比你想象的大得多。\n\n我用国产模型试过，体验至少落后半年。OpenClaw这类工具对模型的推理能力、指令遵循能力要求非常高。模型弱一档，整个体验掉一个台阶——犯更多低级错误，需要更多次纠正，最终感觉\"还不如自己做\"。\n\n如果你打算认真用，模型不要省。这是最重要的一条建议。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">门槛</div><div class=\"st\">记忆系统：目前最不成熟的部分</div></div>\n<div class=\"sb\" style=\"gap:22px;\">\n<ul class=\"bl\"><li>容易\"记错\"或\"记混\"</li><li>记忆污染是真实问题</li><li>定期清理必要，但有成本</li></ul>\n<hr class=\"dv\"><div class=\"sm dk\">方向是对的，迭代很快。</div></div>",
+    "s": "再说记忆系统。这是我用下来觉得目前最不成熟的部分。\n\n记忆系统需要你自己维护，但它很容易\"记错\"或\"记混\"。记忆污染是真实问题——某场景存进去的东西，可能在另一场景被错误调用。\n\n定期清理是必要的，但这件事本身也有成本。\n\n我不想美化这个部分。它现在确实不够稳定。但方向是对的，迭代很快。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">真实案例</div><div class=\"st\">朋友的故事</div></div>\n<div class=\"sb\" style=\"gap:22px;\">\n<ul class=\"bl\"><li>折腾一礼拜装好了</li><li>继续当GPT用——发现没有ChatGPT好用</li><li>放弃了</li></ul>\n<hr class=\"dv\"><div class=\"bq c\" style=\"font-size:28px;\">没有，就想试试。</div></div>",
+    "s": "我一个朋友的经历，很能说明问题。\n\n他听说OpenClaw很厉害，决定装一个。从安装到配置，折腾了整整一礼拜——卡在模型API、电脑权限、记忆污染各种地方。最后终于装好了。\n\n然后继续当GPT用。发现没有ChatGPT好用。然后放弃了。\n\n我问他：你装好之后，有没有想过用它帮你做什么具体的事？\n\n他说：没有，就想试试。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">核心门槛</div><div class=\"st lg\">真正的门槛</div></div>\n<div class=\"sb\" style=\"gap:24px;\">\n<div class=\"bq c\">你有没有真实的，<br>可替代的，重复性的任务</div>\n<div style=\"text-align:center;\"><span class=\"hl\" style=\"font-size:16px;\">有，它能帮你。没有，装了也是摆设。</span></div>\n<hr class=\"dv\"><div class=\"sm\" style=\"text-align:center;\">你的工作流里，有没有那个\"重复到让你烦透了\"的环节？</div></div>",
+    "s": "这就是最核心的门槛。不是技术，不是模型，不是配置。\n\n你有没有真实的、可替代的、重复性的任务。\n\nOpenClaw不是魔法。如果你期待它帮你赚钱、帮你找方向——大概率会失望。它做不了这么模糊的事。\n\n但如果你有成熟的业务或工作流，里面有大量重复性的执行动作——筛内容、整理资料、写初稿、跟进客户——你需要的是一个实习生，那OpenClaw值得认真试一试。\n\n在座都是创业者。问自己一个问题：你的工作流里，有没有那个\"重复到让你烦透了\"的环节？有，它能帮你。没有，装了也是摆设。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">机会</div><div class=\"st lg\">生态位几乎都是空的</div></div>\n<div class=\"sb\" style=\"gap:24px;\">\n<ul class=\"bl\"><li>iPhone 1发布时，没有人知道Uber、Instagram会出现。</li><li>但那些最重要的公司，都在那个时间窗口找到了位置。</li></ul>\n<hr class=\"dv\"><div class=\"sm dk\">现在是同样的时刻。五类机会。</div></div>",
+    "s": "讲完真实体验，讲一些更大的事情。如果OpenClaw真的是AI时代的iPhone 1，现在是2007年，那接下来的机会在哪里？\n\n生态位几乎都是空的。iPhone 1发布的时候，没有人知道Uber、Instagram会出现。但那些最重要的公司，都是在那个时间窗口里找到位置的。\n\n现在是同样的时刻。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">机会 01 · 02</div><div class=\"st\">入口层 · 技能生态</div></div>\n<div class=\"sb\"><div class=\"tc\">\n<div class=\"cb\"><div class=\"cl\">入口层</div><div class=\"ci\">谁占住最高频消息入口<br>谁成为AI时代的主屏</div><div class=\"ci\" style=\"margin-top:6px;font-size:11px;color:#aaa;\">会话中控台 · 跨渠道身份层<br>记忆层 · 权限层</div></div>\n<div class=\"cb\"><div class=\"cl dk\">技能生态</div><div class=\"ci\" style=\"color:#1a1a1a;\">iPhone靠App Store爆发</div><div class=\"ci\" style=\"margin-top:6px;\">可发现 · 可安装<br>可组合 · 可收费的skills生态<br>正在成型</div></div>\n</div></div>",
+    "s": "第一，入口层。谁先占住用户最高频的消息入口，谁就更有可能成为AI时代的主屏。过去是手机桌面，接下来可能是聊天线程、语音唤起、通知流。机会不只是做一个agent，而是做AI的操作系统外壳。\n\n第二，技能生态。iPhone真正爆发靠的不是硬件，是App Store。OpenClaw的长期价值也可能来自可发现、可安装、可收费的skills生态。谁能先做出高质量、低配置成本的技能，谁就可能吃到最早一波生态红利。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">机会 03</div><div class=\"st\">垂直场景产品化</div></div>\n<div class=\"sb\" style=\"gap:22px;\">\n<div class=\"sm dk\">用户不为\"agent架构\"买单</div>\n<div class=\"bq c\">只为\"帮我省下30分钟\"买单</div>\n<div class=\"sm\" style=\"text-align:center;font-size:12px;\">个人行政助理 · 销售跟进 · 创作者工作台<br>独立开发者运维 · 跨境商务助理</div>\n<hr class=\"dv\"><div class=\"sm dk\">先找到那个具体的烦恼，把它做透，就是一个产品。</div></div>",
+    "s": "第三，垂直场景产品化。\n\n早期智能手机时代的赢家，往往不是先讲平台故事的人，而是先把一个场景做透的人。用户不会为\"agent架构\"买单。他们只会为\"帮我省下30分钟\"买单，只会为\"帮我做完这件烦死我的事\"买单。\n\n先找到那个具体的烦恼，把它做透，就是一个产品。\n\n对于在座的创业者，这是最直接的切入点。你现在有业务，有用户，有痛点。OpenClaw是基础设施，你做的是在它上面解决一个具体问题。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">机会 04 · 05</div><div class=\"st\">安全基础设施 · 记忆飞轮</div></div>\n<div class=\"sb\"><div class=\"tc\">\n<div class=\"cb\"><div class=\"cl\">安全基础设施</div><div class=\"ci\">AI能读邮件、动文件后<br>权限设计 · 审批链 · 沙箱变刚需</div><div class=\"ci\" style=\"margin-top:6px;font-size:11px;color:#aaa;\">护城河最深<br>≈ Cloudflare + Okta</div></div>\n<div class=\"cb\"><div class=\"cl dk\">个性化记忆飞轮</div><div class=\"ci\" style=\"color:#1a1a1a;\">差异不只在模型<br>更在是否理解偏好·流程·节奏</div><div class=\"ci\" style=\"margin-top:6px;font-size:11px;\">越了解你，替代成本越高</div></div>\n</div></div>",
+    "s": "第四，安全与信任基础设施。这一层最容易被低估，但护城河最深。AI一旦能读邮件、发消息、动文件，权限设计、审批链、沙箱、审计日志就变成刚需。谁能做好权限治理和风险分级，谁就有机会成为AI agent时代的基础层——类似Cloudflare和Okta的位置。\n\n第五，个性化记忆飞轮。未来AI助手的差异，不只在模型，更在是否理解你的偏好、流程、节奏。谁能先把\"个人工作流的长期记忆\"做成可迁移的资产，谁就更容易形成替代成本。用户不会轻易离开一个\"越来越了解自己\"的助手。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">时间窗口</div><div class=\"st\">2007年，还是2010年？</div></div>\n<div class=\"sb\" style=\"gap:22px;\">\n<div class=\"tc\">\n<div class=\"cb\"><div class=\"cl\">现在</div><div class=\"ct\">iPhone 1 时刻</div><div class=\"ci\">方向成立<br>生态刚开始<br>大部分位置没人占</div></div>\n<div class=\"cb\"><div class=\"cl\">两三年后</div><div class=\"ct\">App Store 时刻</div><div class=\"ci\">生态成熟<br>位置已被占据<br>进入成本升高</div></div></div>\n<hr class=\"dv\"><div class=\"bq\">现在下场的人，<br>有机会定义产品形态</div></div>",
+    "s": "这五类机会有一个共同特点：现在还在非常早期。\n\n2007年，没有人知道App Store会在一年后出现。但那些在iPhone 1发布之后就开始想\"我能做什么\"的人，最终定义了移动互联网时代的产品形态。\n\n今天的OpenClaw，大概也在这个位置。方向成立，生态刚开始，大部分位置没人占。\n\n现在下场的人，有机会定义产品形态。\n\n等到生态成熟，位置就已经被占满了。"
+  },
+  {
+    "h": "<div class=\"sh\"><div class=\"sl\">总结</div><div class=\"st lg\">带走四件事</div></div>\n<div class=\"sb\" style=\"gap:14px;\">\n<div class=\"ni\"><div class=\"nn\">01</div><div><div class=\"nt\">交互方式革新</div><div class=\"nd\">方向成立，体验有惊喜</div></div></div>\n<div class=\"ni\"><div class=\"nn\">02</div><div><div class=\"nt\">消除摩擦</div><div class=\"nd\">价值不在更聪明的AI，在于消除了人和AI之间那道门</div></div></div>\n<div class=\"ni\"><div class=\"nn\">03</div><div><div class=\"nt\">真正的门槛</div><div class=\"nd\">不是技术——是你有没有真实的、可替代的、重复性的任务</div></div></div>\n<div class=\"ni\"><div class=\"nn\">04</div><div><div class=\"nt\">现在是2007年</div><div class=\"nd\">生态位几乎都是空的。找到那个烦恼，比研究工具更重要。</div></div></div>\n<hr class=\"dv\"><div class=\"sm dk\" style=\"text-align:center;font-size:14px;\">谢谢大家。</div></div>",
+    "s": "最后总结。\n\n第一，OpenClaw是AI时代的交互方式革新。方向成立，体验有惊喜。\n\n第二，它的价值不在\"更聪明的AI\"，在于消除了人和AI之间的摩擦。\n\n第三，真正的门槛不是技术，是你有没有真实的、可替代的、重复性的任务。\n\n第四，现在是2007年。生态位几乎都是空的。\n\n如果你有一个具体的烦恼，OpenClaw可能是解决它的基础设施。去找到那个烦恼，比去研究工具本身更重要。\n\n谢谢大家。"
+  }
+]

@@ -1,0 +1,11 @@
+# 只推PPT相关文件，忽略其他笔记
+*.md
+!README.md
+*.canvas
+*.base
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp3
+*.mp4
