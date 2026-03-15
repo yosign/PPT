@@ -162,6 +162,7 @@ var D=[{"h": "<div class=\"sb\" style=\"justify-content:flex-end;padding-bottom:
 
 
 
+
 var cur=0, tot=D.length;
 var ch = new BroadcastChannel('ppt-sync');
 
@@ -246,7 +247,9 @@ function htmlToBlocks(html) {
     } else if (cls.indexOf('hl') >= 0) {
       blocks.push({ type: 'hl', text: text });
     } else if (cls.indexOf('sl') >= 0) {
-      blocks.push({ type: 'sl', text: text });
+      blocks.push({ type: 'ss', text: text });
+    } else if (cls.indexOf('ss') >= 0) {
+      blocks.push({ type: 'ss', text: text });
     } else if (cls.indexOf('sm') >= 0) {
       blocks.push({ type: 'sm', text: text });
     } else if (tag === 'li') {
