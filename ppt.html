@@ -163,6 +163,7 @@ var D=[{"h": "<div class=\"sb\" style=\"justify-content:flex-end;padding-bottom:
 
 
 
+
 var cur=0, tot=D.length;
 var ch = new BroadcastChannel('ppt-sync');
 
@@ -542,6 +543,8 @@ window.blocksToHtml = function(blocks) {
       parts.push('<span class="hl">' + b.text + '</span>');
     } else if (b.type === 'sl') {
       parts.push('<div class="sl">' + b.text + '</div>');
+    } else if (b.type === 'ss') {
+      parts.push('<div class="ss">' + b.text + '</div>');
     } else {
       parts.push('<div class="sm">' + b.text + '</div>');
     }
