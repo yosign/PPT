@@ -32,12 +32,12 @@
     "s": "相比前两代，OpenClaw在使用门槛上降低了很多。\n\n它可以把一个很复杂的工具，完全包装成一个机器人。你不需要学怎么用那个工具，不需要懂编程，就是跟一个机器人对话，把你要做的事说清楚，它去搞定。\n\n当然要说清楚——部署门槛还是挺高的，装起来需要折腾一番。但装好之后，使用门槛是真的低，普通人也能用起来。\n\n这就是所谓的贾维斯——钢铁侠不需要自己动手操作每一个系统，他只是说话，贾维斯去执行。OpenClaw想做的就是这件事。"
   },
   {
-    "h": "<div class=\"sh\"><div class=\"sl\">真实体验</div><div class=\"st\">我的两个账号</div></div><div class=\"sb\"><div class=\"tc\"><div class=\"cb\"><div class=\"ss\">账号 A</div><div class=\"ss\">AI资讯</div><div class=\"ss\">图文内容</div></div><div class=\"cb\"><div class=\"ss\">账号 B</div><div class=\"ss\">疗愈音频</div><div class=\"ss\">脑波音乐</div></div></div><div class=\"sm\">创作需要时间，但碎片时间完全可以用上</div></div>",
-    "s": "接下来说说我自己的真实体验。\n\n我在运营两个内容账号，一个做AI资讯和独立开发，一个做疗愈音频，冥想和脑波音乐。\n\n两个方向完全不同，但有一个共同问题：创作需要时间，而我们每天要花很多时间在创作上。\n\n但实际上不需要花那么多时间，碎片时间完全可以用上。于是我用小龙虾把这两个账号的工作方式都重构了。"
+    "h": "<div class=\"sb\"><div class=\"sl\">引用</div><div class=\"st\">工具进化的本质</div><span class=\"hl\">智能体的进化</span><div class=\"sm\">三个工具，玩不出花样</div><div class=\"sm\">三千个工具，开始有创造力</div><div class=\"sm\">不亚于大模型的进化</div></div>",
+    "s": "周鸿祎说了一句话我印象很深：\n\n\"当你给智能体三个工具，它玩不出花样；当你给它三千个工具，它就开始有创造力了。\"\n\n这句话点出了小龙虾为什么不一样。第一代、第二代AI工具，本质上是给AI规定好了能干什么。小龙虾是反过来的——给它一个目标，让它自己去找工具、组合工具、甚至自己写工具。\n\n他还说：智能体的进化本身，并不亚于大模型的进化。\n\n过去两年大家一直盯着参数多少、算力多少。但龙虾告诉我们，工具的扩展和协作能力，同样是一条进化路径。不是只有更大的模型才代表进步。"
   },
   {
-    "h": "<div class=\"sh\"><div class=\"sl\">引用</div><div class=\"st\">工具进化的本质</div></div><div class=\"sb\"><div class=\"sm\">三个工具，玩不出花样</div><div class=\"sm\">三千个工具，开始有创造力</div><span class=\"hl\">智能体的进化</span><div class=\"sm\">不亚于大模型的进化</div></div>",
-    "s": "周鸿祎说了一句话我印象很深：\n\n\"当你给智能体三个工具，它玩不出花样；当你给它三千个工具，它就开始有创造力了。\"\n\n这句话点出了小龙虾为什么不一样。第一代、第二代AI工具，本质上是给AI规定好了能干什么。小龙虾是反过来的——给它一个目标，让它自己去找工具、组合工具、甚至自己写工具。\n\n他还说：智能体的进化本身，并不亚于大模型的进化。\n\n过去两年大家一直盯着参数多少、算力多少。但龙虾告诉我们，工具的扩展和协作能力，同样是一条进化路径。不是只有更大的模型才代表进步。"
+    "h": "<div class=\"sh\"><div class=\"sl\">真实体验</div><div class=\"st\">我的两个账号</div></div><div class=\"sb\"><div class=\"tc\"><div class=\"cb\"><div class=\"ss\">账号 A</div><div class=\"ss\">AI资讯</div><div class=\"ss\">图文内容</div></div><div class=\"cb\"><div class=\"ss\">账号 B</div><div class=\"ss\">疗愈音频</div><div class=\"ss\">脑波音乐</div></div></div><div class=\"sm\">创作需要时间，但碎片时间完全可以用上</div></div>",
+    "s": "接下来说说我自己的真实体验。\n\n我在运营两个内容账号，一个做AI资讯和独立开发，一个做疗愈音频，冥想和脑波音乐。\n\n两个方向完全不同，但有一个共同问题：创作需要时间，而我们每天要花很多时间在创作上。\n\n但实际上不需要花那么多时间，碎片时间完全可以用上。于是我用小龙虾把这两个账号的工作方式都重构了。"
   },
   {
     "h": "<div class=\"sh\"><div class=\"sl\">图文创作</div><div class=\"st\">工作流重构</div></div><div class=\"sb\"><div class=\"tc\"><div class=\"cb\"><div class=\"ss\">以前</div><div class=\"ss\">有想法 → 等整块时间 → 写<br><br>想法容易过时<br>今天有明天不写就浪费了</div></div><div class=\"cb\"><div class=\"ss\">现在</div><div class=\"ss\">读完文章 = 文章写完了<br><br>阅读就是写作<br>最核心的环节</div></div></div></div>",
@@ -49,7 +49,7 @@
   },
   {
     "h": "<div class=\"sh\"><div class=\"sl\">全流程</div><div class=\"st\">图文工作流</div></div><div class=\"sb\"><div class=\"ni\"><div class=\"ss\">01</div><div><div class=\"ss\">找选题</div><div class=\"ss\">Twitter · 论文 · 最新发布</div></div></div><div class=\"ni\"><div class=\"ss\">02</div><div><div class=\"ss\">我选几篇阅读，写读书笔记</div></div></div><div class=\"ni\"><div class=\"ss\">03</div><div><div class=\"ss\">AI整合笔记，逐段写3000字文章</div></div></div><div class=\"ni\"><div class=\"ss\">04</div><div><div class=\"ss\">转图片 → 自动发布</div></div></div></div>",
-    "s": "我把整个工作流告诉了小龙虾。\n\n它每天去Twitter、论文库、最新发布里找选题，推给我一批内容，我从里面选几篇读。读完写笔记，发给它，它把原文和笔记整合在一起，然后逐章逐段帮我写文章，大概3000字。\n\n写文章的时候，它知道我的账号定位是什么，面向的读者是谁，什么样的写法数据会好。这个不是固定的，是会迭代的。\n\n写完之后，文字转图片，通过浏览器模拟点击，自动传到平台，贴上标题，点发布。全程我不需要动手。"
+    "s": "我把整个工作流告诉了小龙虾。\n\n它每天去Twitter、论文库、最新��布里找选题，推给我一批内容，我从里面选几篇读。读完写笔记，发给它，它把原文和笔记整合在一起，然后逐章逐段帮我写文章，大概3000字。\n\n写文章的时候，它知道我的账号定位是什么，面向的读者是谁，什么样的写法数据会好。这个不是固定的，是会迭代的。\n\n写完之后，文字转图片，通过浏览器模拟点击，自动传到平台，贴上标题，点发布。全程我不需要动手。"
   },
   {
     "h": "<div class=\"sh\"><div class=\"sl\">闭环</div><div class=\"st\">数据迭代</div></div><div class=\"sb\" style=\"gap:24px;\"><div class=\"fl\"><span class=\"hl\">点击率</span><span class=\"ss\">·</span><span class=\"hl\">点赞率</span><span class=\"ss\">·</span><span class=\"hl\">收藏率</span><span class=\"ss\">·</span><span class=\"hl\">分享率</span></div><div class=\"ni\"><div class=\"ss\">↓</div><div><div class=\"st\">提炼写作方法</div></div></div><div class=\"ni\"><div class=\"ss\">↓</div><div><div class=\"st\">更新写作建议</div></div></div><div class=\"ni\"><div class=\"ss\">↓</div><div><div class=\"st\">下一篇文章自动变好</div></div></div></div>",
@@ -61,35 +61,35 @@
   },
   {
     "h": "<div class=\"sh\"><div class=\"sl\">解决方案</div><div class=\"st\">QMD</div></div><div class=\"sb\"><div class=\"tc\"><div class=\"cb\"><div class=\"ss\">短期记忆</div><div class=\"ss\">最近发生的事，清晰</div></div><div class=\"cb\"><div class=\"ss\">长期记忆</div><div class=\"ss\">定期压缩归纳</div></div></div><div class=\"ss\">按需提取<br>不用全塞进上下文</div><div class=\"sm\">效率更高 · 更省钱 · 记忆力更好</div></div>",
-    "s": "我本来想接一个付费的记忆方案，后来发现有个开源的叫QMD，解决了同样的问题，就接上了。\n\n在折腾这个过程里，我大概搞清楚了AI的记忆是怎么工作的。其实跟人很像——短期记忆是一个文件，记着最近发生的事，很清楚。长期记忆会定期把近期内容压缩归纳，写进一个越来越大的长期记忆文件。\n\n问题是，如果把所有记忆都塞进模型的上下文，又慢又贵。QMD的做法是按需提取——需要什么记忆，临时去找，不用全部加载。\n\n这样就形成了一个既高效又省钱、记忆力还不错的系统。\n\n我觉得这是现在这个阶段折腾小龙虾最大的收获之一——你会真正搞清楚AI是怎么工作的。"
+    "s": "我本来想接一个付费的记忆方案，后来发现有个开源的叫QMD��解决了同样的问题，就接上了。\n\n在折腾这个过程里，我大概搞清楚了AI的记忆是怎么工作的。其实跟人很像——短期记忆是一个文件，记着最近发生的事，很清楚。长期记忆会定期把近期内容压缩归纳，写进一个越来越大的长期记忆文件。\n\n问题是，如果把所有记忆都塞进模型的上下文，又慢又贵。QMD的做法是按需提取——需要什么记忆，临时去找，不用全部加载。\n\n这样就形成了一个既高效又省钱、记忆力还不错的系统。\n\n我觉得这是现在这个阶段折腾小龙虾最大的收获之一——你会真正搞清楚AI是怎么工作的。"
   },
   {
     "h": "<div class=\"sh\"><div class=\"sl\">心态</div><div class=\"st\">不是在用软件</div></div><div class=\"sb\"><span class=\"hl\">是在培养实习生</span><div class=\"sm\">实习生会犯错，你得给他交学费</div><span class=\"hl\">越用越了解你</span><div class=\"sm\">最后变成你的第二大脑</div></div>",
-    "s": "在说门槛之前，我想先调整一个心态。\n\n周鸿祎说了一句我觉得比任何操作手册都有用的话：\n\n\"不要把龙虾看成一个软件。我一直提醒自己：我不是买了一个软件，我是培养了一个实习生。实习生当然会犯错，你得给他交学费。\"\n\n这个比喻非常准。\n\n用软件是消费者心态——这功能为什么不好用，这bug为什么没修。\n培养实习生是投入心态——我得把任务描述清楚，得给他反馈，这次没做好不代表下次不行。\n\n软件不会越用越懂你。实习生会。做了100件事之后，知道你的风格、你的偏好、你的底线。\n\n他说：\"龙虾越用越了解你，最后会变成你的第二大脑。\"\n\n养龙虾的过程，不只是在配置工具，是在积累一个越来越懂你的搭档。交学费是值得的。"
+    "s": "在说门槛之前，我想先调整一个心态。\n\n周鸿祎说了一句我觉得比任何操作手册都有用的话：\n\n\"不要把龙虾看成一个软件。我一直提醒自己：我不是买了一个软件，我是培养了一个实习生。实习生当然会犯错，你得给他交学费。\"\n\n这个比喻非常准。\n\n用软件是消费者心态——这���能为什么不好用，这bug为什么没修。\n培养实习生是投入心态——我得把任务描述清楚，得给他反馈，这次没做好不代表下次不行。\n\n软件不会越用越懂你。实习生会。做了100件事之后，知道你的风格、你的偏好、你的底线。\n\n他说：\"龙虾越用越了解你，最后会变成你的第二大脑。\"\n\n养龙虾的过程，不只是在配置工具，是在积累一个越来越懂你的搭档。交学费是值得的。"
   },
   {
     "h": "<div class=\"sh\"><div class=\"sl\">门槛</div><div class=\"st\">养虾的真正门槛</div></div><div class=\"sb\" style=\"gap:28px;\"><div class=\"ss\">模型质量决定体验上限</div><div class=\"bl\"><li>国产模型体验落后半年</li><li>认真用，模型不要省</li></div></div>",
     "s": "用了两个月，想直接说清楚这个工具的边界。\n\n第一个门槛是模型。模型质量对养虾体验的影响比你想象的大，模型弱一档，整个体验就掉一个台阶。国产模型体验大概落后半年。如果打算认真用，模型不要省。"
   },
   {
-    "h": "<div class=\"sh\"><div class=\"sl\">案例</div><div class=\"st\">一个朋友的故事</div></div><div class=\"sb\" style=\"gap:28px;\"><div class=\"bl\"><li>折腾一礼拜装好了</li><li>继续当GPT用</li><li>没ChatGPT好用，放弃了</li></div><div class=\"ss\">问题不是工具<br>是没想清楚要用它做什么</div></div>",
+    "h": "<div class=\"sh\"><div class=\"sl\">案例</div><div class=\"st\">一个朋友的故事</div></div><div class=\"sb\" style=\"gap:28px;\"><div class=\"bl\"><li>折腾一礼拜装好了</li><li>继续当GPT用</li><li>没ChatGPT好用，放弃了</li></div><div class=\"ss\">问题不是工具<br>是没想清楚��用它做什么</div></div>",
     "s": "我一个朋友的经历更能说明问题。\n\n他从安装到配置折腾了一礼拜，装好了之后，继续当GPT用，发现没有ChatGPT好用，就放弃了。\n\n他的问题不是小龙虾不好，是他从来没想清楚，装好之后要用它做什么具体的事。"
   },
   {
     "h": "<div class=\"sh\"><div class=\"sl\">核心</div><div class=\"st\">真正的门槛</div></div><div class=\"sb\" style=\"gap:28px;\"><div class=\"ss\">你有没有<br>真实的、可替代的<br>重复性的任务</div><div><span class=\"hl\">有，它能帮你。没有，装了也是摆设。</span></div></div>",
-    "s": "这才是我觉得最核心的门槛。\n\n你有没有真实的、可替代的、重复性的任务。\n\n很多人说小龙虾能帮你赚钱，这话没错，但得说清楚。它不是你说\"帮我赚钱\"它就能做到，这种模糊的任务它做不了。\n\n那些用它赚到钱的人，是因为他们有一套相对固定的工作流，比如量化交易，比如内容发布，把这套流程交给小龙虾去执行，它能完整跑完。\n\n所以真正的问题不是小龙虾能不能帮你赚钱，而是你有没有一套具体的、可以描述清楚的流程，可以交给它去跑。有，它能帮你。没有，装了也是摆设。"
+    "s": "这才是我觉得最核心的门槛。\n\n你有没有真实的、可替代的、重复性的任务。\n\n很多人说小龙虾能帮你赚钱，这话没错，但得说清楚���它不是你说\"帮我赚钱\"它就能做到，这种模糊的任务它做不了。\n\n那些用它赚到钱的人，是因为他们有一套相对固定的工作流，比如量化交易，比如内容发布，把这套流程交给小龙虾去执行，它能完整跑完。\n\n所以真正的问题不是小龙虾能不能帮你赚钱，而是你有没有一套具体的、可以描述清楚的流程，可以交给它去跑。有，它能帮你。没有，装了也是摆设。"
   },
   {
     "h": "<div class=\"sh\"><div class=\"sl\">机会</div><div class=\"st\">生态位几乎都是空的</div></div><div class=\"sb\" style=\"gap:28px;\"><div class=\"sm\">iPhone 1发布时<br>没人知道Uber和Instagram会出现</div><div class=\"ss\">那些公司都在那个时间窗口<br>找到了位置</div></div>",
     "s": "最后说说机会。\n\n现在是同样的时刻。\n\niPhone 1发布的时候，没人知道Uber会出现，没人知道Instagram会出现。但那些公司都在那个时间窗口里找到了自己的位置。\n\n现在OpenClaw的生态位几乎都是空的，我看到五类机会。"
   },
   {
-    "h": "<div class=\"sh\"><div class=\"sl\">机会 01</div><div class=\"st\">入口层</div></div><div class=\"sb\" style=\"gap:28px;\"><div class=\"ss\">谁占住用户最高频的消息入口<br>谁就是AI时代的主屏</div><div class=\"tc\"><div class=\"cb\"><div class=\"ss\">过去</div><div class=\"ss\">手机桌面<br>App图标</div></div><div class=\"cb\"><div class=\"ss\">接下来</div><div class=\"ss\">聊天线程<br>语音唤起<br>通知流</div></div></div></div>",
+    "h": "<div class=\"sh\"><div class=\"sl\">机会 01</div><div class=\"st\">入口层</div></div><div class=\"sb\" style=\"gap:28px;\"><div class=\"ss\">谁占住用户最高频的消息入口<br>谁就是AI时代的主屏</div><div class=\"tc\"><div class=\"cb\"><div class=\"ss\">过去</div><div class=\"ss\">手���桌面<br>App图标</div></div><div class=\"cb\"><div class=\"ss\">接下来</div><div class=\"ss\">聊天线程<br>语音唤起<br>通知流</div></div></div></div>",
     "s": "第一类机会是入口层。\n\n过去十年，占住用户手机主屏的App赢了。接下来，谁先占住用户最高频的消息入口，谁就更有可能成为AI时代的主屏。\n\n这个方向的机会不只是做一个agent，而是做AI的操作系统外壳——会话中控台、跨渠道身份层、记忆层、权限层。"
   },
   {
     "h": "<div class=\"sh\"><div class=\"sl\">机会 02</div><div class=\"st\">技能生态</div></div><div class=\"sb\" style=\"gap:28px;\"><div class=\"ss\">iPhone真正爆发靠的是应用商店<br>不是硬件，是生态</div><div class=\"bl\"><li>可发现、可安装、可收费的skills</li><li>谁先做出高质量技能</li><li>谁吃到最早一波生态红利</li></div></div>",
-    "s": "第二类机会是技能生态。\n\niPhone真正爆发靠的不是硬件，是应用商店。小龙虾的长期价值也未必来自一个主agent，而可能来自可发现、可安装、可收费的skills生态。\n\n这也是为什么腾讯背着骂名也要把小程序商店搞起来的原因——这是一个很重要的生态位，谁占住谁就有持续的收益。\n\n不过我自己觉得，skill商店的生态最终长什么样，现在还不好说。这个方向是对的，但具体形态可能跟我们现在想的不一样，后续观察。"
+    "s": "第二类机会是技能生态。\n\niPhone真正爆发靠的不是硬件，是应用商店。小龙虾的长期价值也未必来自一个主agent，而可能来自可发现、可安装、可收费的skills生态。\n\n这也是为什么腾讯背着骂名也要把小程序商店搞起来的原因——这是一个很重要的生态位，谁占住谁就有持续的收益。\n\n不过我自己觉得，skill商店的生态最终长什么样，现在还不好说。这个方向是对的，但具体��态可能跟我们现在想的不一样，后续观察。"
   },
   {
     "h": "<div class=\"sh\"><div class=\"sl\">机会 03</div><div class=\"st\">垂直场景产品化</div></div><div class=\"sb\" style=\"gap:28px;\"><div class=\"ss\">用户不为「agent架构」买单<br>只为「帮我省30分钟」买单</div><div class=\"sm\">找到那个具体的烦恼，把它做透，就是一个产品</div></div>",
@@ -105,7 +105,7 @@
   },
   {
     "h": "<div class=\"sh\"><div class=\"sl\">新业态</div><div class=\"st\">OPC 一人公司</div></div><div class=\"sb\"><div class=\"sm\">不是你一个人有多厉害</div><span class=\"hl\">是你会不会管一群龙虾</span><div class=\"sm\">过去：一人公司 = 一个人扛所有</div><div class=\"sm\">现在：一人公司 = 一个人指挥一支Agent队伍</div></div>",
-    "s": "说到机会，有一个词最近很流行——OPC，One Person Company，一人公司。\n\n但我觉得现在说的OPC，跟以前说的那种\"一人公司\"完全不是一回事。\n\n以前说一人公司，潜台词是这个人什么都会——会写代码、会做设计、会谈客户、会发运营。是一个\"全能型选手\"独自撑起一家公司。\n\n现在说的OPC，核心不是你有多厉害，是你会不会管一群龙虾。\n\n周鸿祎说得很直接：\"OPC的关键不是一个人有多厉害，而是一个人能不能指挥多个智能体。\"\n\n你不需要自己写每一行代码，你需要能把需求描述清楚，让Agent去写。你不需要自己做每张图，你需要知道要什么风格，让Agent去生成。\n\n这是一种新的能力——管理Agent的能力。一个人，加一群龙虾，可以干以前需要一支团队才能干的事。"
+    "s": "说到机会，有一个词最近很流行——OPC，One Person Company，一人公司。\n\n但我觉得现在说的OPC，跟以前说的那种\"一人公司\"完全不是一回事。\n\n以前说一人公司，潜台词是这个人��么都会——会写代码、会做设计、会谈客户、会发运营。是一个\"全能型选手\"独自撑起一家公司。\n\n现在说的OPC，核心不是你有多厉害，是你会不会管一群龙虾。\n\n周鸿祎说得很直接：\"OPC的关键不是一个人有多厉害，而是一个人能不能指挥多个智能体。\"\n\n你不需要自己写每一行代码，你需要能把需求描述清楚，让Agent去写。你不需要自己做每张图，你需要知道要什么风格，让Agent去生成。\n\n这是一种新的能力——管理Agent的能力。一个人，加一群龙虾，可以干以前需要一支团队才能干的事。"
   },
   {
     "h": "<div class=\"sh\"><div class=\"sl\">趋势</div><div class=\"st\">未来的生意是面向龙虾的</div></div><div class=\"sb\"><div class=\"sm\">以前：面向人做产品</div><span class=\"hl\">以后：面向Agent做服务</span><div class=\"sm\">龙虾接管：比价 · 筛选 · 下单 · 预约 · 退货</div><div class=\"sm\">人只做最后一步：要不要</div></div>",
