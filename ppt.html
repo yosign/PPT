@@ -161,6 +161,7 @@ var D=[{"h": "<div class=\"sb\" style=\"justify-content:flex-end;padding-bottom:
 
 
 
+
 var cur=0, tot=D.length;
 var ch = new BroadcastChannel('ppt-sync');
 
@@ -221,8 +222,8 @@ render();
 })();
 
 // ── 块编辑器（覆盖原有 openEditor / saveSlide） ────────────────────────────
-var TYPE_LABEL = { st:'标题', sm:'正文', hl:'高亮', sl:'副标' };
-var TYPE_ORDER = ['st', 'sl', 'sm', 'hl'];
+var TYPE_LABEL = { st:'标题 T', sm:'正文 B', ss:'小字 S', hl:'高亮 B' };
+var TYPE_ORDER = ['st', 'sm', 'ss', 'hl'];
 var _edBlocks = [];
 
 function htmlToBlocks(html) {
